@@ -66,8 +66,8 @@
     "slick-carousel": "^1.5.5"
   },
   "peerDependencies": {
-    "react": "^15.0.1",
-    "react-dom": "^15.0.1"
+    "react": "*",
+    "react-dom": "*"
   },
   "npmName": "react-slick",
   "npmFileMap": [
